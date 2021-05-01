@@ -12,5 +12,5 @@ There are some things I would like to add in the future to the game, and they ar
 I might add them later when I get the required motivation, and if I do enjoy the extra features : )
 
 Python version - 3.8.1
-
+used library Turtle for the visual interface
 Notes - X is a turtle and O...is an O , I used the available Turtle library default sprites
