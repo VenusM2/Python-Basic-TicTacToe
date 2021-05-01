@@ -13,6 +13,6 @@ I might add them later when I get the required motivation, and if I do enjoy the
 
 Python version - 3.8.1
 
-used library Turtle for the visual interface
+used Turtle library for the visual interface
 
 Notes - X is a turtle and O...is an O , I used the available Turtle library default sprites
